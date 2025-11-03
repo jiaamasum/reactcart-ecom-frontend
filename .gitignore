@@ -23,7 +23,7 @@ yarn-error.log*
 .vercel
 
 #folder
-docs
+/docs
 
 # typescript
 *.tsbuildinfo
