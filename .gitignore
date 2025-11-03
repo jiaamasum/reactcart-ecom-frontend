@@ -28,3 +28,18 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# editors
+.vscode/
+.idea/
+
+# os junk
+.DS_Store
+Thumbs.db
+
+# test/coverage caches
+coverage/
+.eslintcache
+
+# user content
+public/uploads/
